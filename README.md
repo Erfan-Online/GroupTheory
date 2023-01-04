@@ -8,4 +8,3 @@
 
 - On Lecture 4/(36 + 2 reviews)
 - On Problem Set 2/36.
-- On (markdowning) Lecture notes 1/36.
